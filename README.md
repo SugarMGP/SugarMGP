@@ -1,13 +1,13 @@
 # Hello！这里是 Mo_Ink
 
 ![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Mo-Ink&hide=html)
-![Mo_Ink's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=mo-ink&show_icons=true&count_private=true&line_height=33.99)
+![Mo_Ink's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=mo-ink&show_icons=true&count_private=true)
 
 ## 编程语言
 
 - C++（残废）
-- Java（学习中）
 - C#（学习中）
+- Java（学习中）
 
 ## 项目
 
