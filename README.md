@@ -33,5 +33,5 @@
 ## 联系我
 
 - Minecraft ID: Mo_Ink
-- Bilibili: 暂无
+- Bilibili: 白糖洒一地
 - Email: 2350745751@qq.com
