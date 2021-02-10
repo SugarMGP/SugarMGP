@@ -15,7 +15,7 @@
 
 |项目名|介绍|语言|框架 / SDK|状态|
 |:----:|:----:|:----:|:----:|:----:|
-|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|一个为 Seewo 等一体机定制的教室多媒体辅助程序|C#|.NET Framework 4.8|更新中✅|
+|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|一个为 Seewo 等一体机定制的教室多媒体辅助程序|C#|.NET 5.0|更新中✅|
 |[Evolution-Of-Cuckoo](https://github.com/Mo-Ink/Evolution-Of-Cuckoo)|一个用来歌颂 Cuckoo Dev Team 的 Minecraft Mod|Java|Java SE Development Kit 8|更新中✅|
 |[BaiTang-Clock](https://github.com/Mo-Ink/BaiTang-Clock)|一个自用的命令行闹钟|C++|C++ Standard Library|停更❎|
 |[BaiTang-KMS-Activator](https://github.com/Mo-Ink/BaiTang-KMS-Activator)|一个自用的 KMS 激活器|C++|C++ Standard Library|停更❎|
