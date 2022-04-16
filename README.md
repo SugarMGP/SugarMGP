@@ -1,4 +1,4 @@
-# Hello！这里是 S
+# Hello！这里是 SugarMGP
 
 ![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Mo-Ink&hide=html)
 ![Mo_Ink's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=mo-ink&show_icons=true&count_private=true)
