@@ -1,7 +1,7 @@
 # Hello！这里是 SugarMGP
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=Mo-Ink&hide=html)
-![Mo_Ink's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=mo-ink&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=SugarMGP&hide=html)
+![Mo_Ink's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=SugarMGP&show_icons=true&count_private=true)
 
 ## 编程语言
 
@@ -15,10 +15,10 @@
 
 |项目名|介绍|语言|框架 / SDK|状态|
 |:----:|:----:|:----:|:----:|:----:|
-|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|一个为 Seewo 等一体机定制的教室多媒体辅助程序|C#|.NET 5.0|更新中✅|
-|[Evolution-Of-Cuckoo](https://github.com/Mo-Ink/Evolution-Of-Cuckoo)|一个用来歌颂 Cuckoo Dev Team 的 Minecraft Mod|Java|Java SE Development Kit 8|更新中✅|
-|[BaiTang-Clock](https://github.com/Mo-Ink/BaiTang-Clock)|一个自用的命令行闹钟|C++|C++ Standard Library|停更❎|
-|[BaiTang-KMS-Activator](https://github.com/Mo-Ink/BaiTang-KMS-Activator)|一个自用的 KMS 激活器|C++|C++ Standard Library|停更❎|
+|[SeewoHelper](https://github.com/SugarMGP/SeewoHelper)|一个为 Seewo 等一体机定制的教室多媒体辅助程序|C#|.NET 5.0|更新中✅|
+|[Evolution-Of-Cuckoo](https://github.com/SugarMGP/Evolution-Of-Cuckoo)|一个用来歌颂 Cuckoo Dev Team 的 Minecraft Mod|Java|Java SE Development Kit 8|更新中✅|
+|[BaiTang-Clock](https://github.com/SugarMGP/BaiTang-Clock)|一个自用的命令行闹钟|C++|C++ Standard Library|停更❎|
+|[BaiTang-KMS-Activator](https://github.com/SugarMGP/BaiTang-KMS-Activator)|一个自用的 KMS 激活器|C++|C++ Standard Library|停更❎|
 
 ### 作为贡献者的项目
 
@@ -32,6 +32,5 @@
 
 ## 联系我
 
-- Minecraft ID: Mo_Ink
+- Minecraft ID: SugarMGP
 - Bilibili: 白糖洒一地
-- Email: 2350745751@qq.com
