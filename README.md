@@ -1,7 +1,7 @@
 # Hello！这里是 SugarMGP
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=SugarMGP&hide=html)
-![SugarMGP's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=SugarMGP&show_icons=true&count_private=true)
+![状态](https://github-readme-stats.vercel.app/api?username=SugarMGP&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)
+![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarMGP&layout=compact&locale=cn&hide_border=true)
 
 ## 编程语言
 
