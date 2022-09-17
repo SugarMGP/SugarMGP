@@ -18,8 +18,8 @@
 |[SeewoHelper](https://github.com/SugarWorkshop/SeewoHelper)|一个为 Seewo 等一体机定制的教室多媒体辅助程序|C#|.NET 5.0|长期维护✅|
 |[NewYearFirework](https://github.com/SugarMGP/NewYearFirework)|一个用于新年放烟花的 Spigot 插件|Java|JDK 17|长期维护✅|
 |[NewYearBlessing](https://github.com/SugarMGP/NewYearBlessing)|一个用于新年祝福的 Spigot 插件|Java|JDK 17|长期维护✅|
-|[BaiTang-Clock](https://github.com/SugarMGP/BaiTang-Clock)|一个自用的命令行闹钟|C++|C++ Standard Library|停更❎|
-|[BaiTang-KMS-Activator](https://github.com/SugarMGP/BaiTang-KMS-Activator)|一个自用的 KMS 激活器|C++|C++ Standard Library|停更❎|
+|[BaiTang Clock](https://github.com/SugarMGP/BaiTang-Clock)|一个自用的命令行闹钟|C++|C++ Standard Library|停更❎|
+|[BaiTang KMS Activator](https://github.com/SugarMGP/BaiTang-KMS-Activator)|一个自用的 KMS 激活器|C++|C++ Standard Library|停更❎|
 
 ### 作为贡献者的项目
 
