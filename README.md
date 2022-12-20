@@ -15,8 +15,8 @@
 |项目名|介绍|语言|框架 / SDK|状态|
 |:----:|:----:|:----:|:----:|:----:|
 |[Evolution Of Sugar](https://github.com/SugarWorkshop/Evolution-Of-Sugar)|一个用来纪念白糖的小伙伴的 Minecraft 模组|Java|JDK 8|积极更新✅|
+|[FestiveFirework](https://github.com/SugarMGP/FestiveFirework)|一个自动放烟花的 Spigot 插件|Java|JDK 8|积极更新✅|
 |[SeewoHelper](https://github.com/SugarWorkshop/SeewoHelper)|一个为 Seewo 等一体机定制的教室多媒体辅助程序|C#|.NET 5.0|长期维护✅|
-|[FestiveFirework](https://github.com/SugarMGP/FestiveFirework)|一个自动放烟花的 Spigot 插件|Java|JDK 8|长期维护✅|
 |[NewYearBlessing](https://github.com/SugarMGP/NewYearBlessing)|一个用于新年祝福的 Spigot 插件|Java|JDK 17|长期维护✅|
 |[BaiTang Clock](https://github.com/SugarMGP/BaiTang-Clock)|一个自用的命令行闹钟|C++|C++ Standard Library|停更❎|
 |[BaiTang KMS Activator](https://github.com/SugarMGP/BaiTang-KMS-Activator)|一个自用的 KMS 激活器|C++|C++ Standard Library|停更❎|
