@@ -27,9 +27,10 @@
 |:----:|:----:|:----:|:----:|
 |[@espidev](https://github.com/espidev)|[ebackup](https://github.com/espidev/ebackup)|一个简单可靠的 Spigot 备份插件|Java|
 |[@gonggongjohn](https://github.com/gonggongjohn)|[Evolution Of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge)|一个重现人类发展进程的 Minecraft 模组|Java|
-|[@zi-jing](https://github.com/zi-jing)|[CuckooLib](https://github.com/zi-jing/CuckooLib)|供 Cuckoo Dev Team 旗下模组使用的通用库|Java|
+|[@KitraMGP](https://github.com/KitraMGP)|[CuckooLib](https://github.com/KitraMGP/CuckooLib)|供 Cuckoo Dev Team 旗下模组使用的通用库|Java|
 
 ## 联系我
 
 - Minecraft ID: SugarMGP
 - Bilibili: 白糖洒一地
+- Email: sugarmgp@foxmail.com
