@@ -1,4 +1,4 @@
-# 大家好，我是代码大蛇白糖洒一地
+# 你好，我是 SugarMGP 😊
 
 ![状态](https://github-readme-stats.vercel.app/api?username=SugarMGP&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarMGP&layout=compact&locale=cn&hide_border=true)
 
@@ -7,6 +7,7 @@
 - C++（残废）
 - C#（学习中）
 - Java（学习中）
+- Golang（学习中）
 
 ## 项目
 
