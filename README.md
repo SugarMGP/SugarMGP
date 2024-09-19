@@ -1,34 +1,41 @@
-# 你好，我是 SugarMGP 😊
+## 👋 Hi, I'm SugarMGP
 
-![状态](https://github-readme-stats.vercel.app/api?username=SugarMGP&locale=cn&show_icons=true&include_all_commits=true&hide_border=true)![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarMGP&layout=compact&locale=cn&hide_border=true)
+### ℹ️ Status 
 
-## 编程语言
+![Status](https://github-readme-stats.vercel.app/api?username=SugarMGP&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarMGP&layout=compact&hide_border=true)
 
-- C++（残废）
-- C#（学习中）
-- Java（学习中）
-- Golang（学习中）
+---
 
-## 项目
+### 🧑‍💻 Used Languages 
 
-### 我发起的项目
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-378BBA?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ae784d?style=for-the-badge)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge)
 
-|项目名|介绍|语言|框架 / SDK|状态|
-|:----:|:----:|:----:|:----:|:----:|
-|[Evolution Of Sugar](https://github.com/SugarWorkshop/Evolution-Of-Sugar)|用来纪念白糖的小伙伴的 Forge 模组|Java|JDK 8|积极更新✅|
-|[FestiveFirework](https://github.com/SugarMGP/FestiveFirework)|用于管理烟花燃放的 Spigot 插件|Java|JDK 8|积极更新✅|
-|[NewYearBlessing](https://github.com/SugarMGP/NewYearBlessing)|用于新年祝福的 Spigot 插件|Java|JDK 17|长期维护✅|
-|[SeewoHelper](https://github.com/SugarWorkshop/SeewoHelper)|为白板一体机定制的教室多媒体辅助程序|C#|.NET 5.0|停止维护❎|
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 作为贡献者的项目
+---
 
-|项目归属|项目名|介绍|语言|
-|:----:|:----:|:----:|:----:|
-|[@espidev](https://github.com/espidev)|[ebackup](https://github.com/espidev/ebackup)|一个简单可靠的 Spigot 备份插件|Java|
-|[@gonggongjohn](https://github.com/gonggongjohn)|[Evolution Of Knowledge](https://github.com/gonggongjohn/Evolution-Of-Knowledge)|一个致力于重现人类发展进程的 Forge 模组|Java|
+### 💻 Workspaces 
 
-## 联系我
+![CPU](https://img.shields.io/badge/AMD-Ryzen_7_8845HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=vscodium&logoColor=white)
+![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-- Minecraft ID: SugarMGP
-- Bilibili: 白糖洒一地
-- Email: sugarmgp@foxmail.com
+![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![PR](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+---
+
+### 📱 Find Me 
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SugarMGP)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SugarMGP)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/129922746)
