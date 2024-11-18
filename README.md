@@ -25,6 +25,7 @@
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=vscodium&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=goland&logoColor=white)
 
 ![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
