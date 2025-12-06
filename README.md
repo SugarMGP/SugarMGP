@@ -33,4 +33,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SugarMGP)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SugarMGP)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/129922746)
-[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)](https://sugarmgp.cn/)
+[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)](https://blog.sugarmgp.cn/)
