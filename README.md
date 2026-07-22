@@ -2,7 +2,7 @@
 
 ### ℹ️ Status 
 
-![Status](https://github-readme-stats-sugarmgp.vercel.app/api?username=SugarMGP&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-readme-stats-sugarmgp.vercel.app/api/top-langs/?username=SugarMGP&layout=compact&hide_border=true)
+![Status](https://github-stats-extended.vercel.app/api?username=SugarMGP&show_icons=true&include_all_commits=true&hide_border=true)![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SugarMGP&layout=compact&hide_border=true)
 
 ### 🧑‍💻 Used Languages 
 
